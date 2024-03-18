@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|c:\\users\\phamp\\downloads\\doanc--20240310t061221z-001\\doanc-\\qlthuvien\\qlthuvien\\frm_quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_tacgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_tacgia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\themsuaxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\themsuaxoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\qlthuvien\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34FEDF-96F4-4093-9BCF-730BCF0128C6}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_quanlythuvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_quanlythuvien.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_quanlythuvien.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_quanlythuvien.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_quanlythuvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:15:38.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_tacgia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_tacgia.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_tacgia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:37:38.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_nhaxuatban.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhaxuatban.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_nhaxuatban.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhaxuatban.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_nhaxuatban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:35:30.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_docgia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_docgia.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_docgia.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_docgia.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_docgia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:14:39.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\Program.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Program.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\Program.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:51:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_theloaisach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_theloaisach.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_theloaisach.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_theloaisach.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_theloaisach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:38:58.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhanvien.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_nhanvien.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhanvien.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:33:17.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_muontra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_muontra.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_muontra.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_muontra.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_muontra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:14:44.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_dangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_dangnhap.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_dangnhap.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_dangnhap.cs [Design]",
+              "RelativeToolTip": "QLTHUVIEN\\frm_dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:14:34.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_tacgia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.Designer.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_tacgia.Designer.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.Designer.cs",
+              "RelativeToolTip": "QLTHUVIEN\\frm_tacgia.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:44:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Themsuaxoa.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\Themsuaxoa.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Themsuaxoa.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\Themsuaxoa.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Themsuaxoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAADYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:14:02.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_tacgia.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_tacgia.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_tacgia.cs",
+              "RelativeToolTip": "QLTHUVIEN\\frm_tacgia.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAhwJ8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:37:40.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_nhaxuatban.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhaxuatban.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_nhaxuatban.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhaxuatban.cs",
+              "RelativeToolTip": "QLTHUVIEN\\frm_nhaxuatban.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAkwJwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:35:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhanvien.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\frm_nhanvien.cs",
+              "ToolTip": "C:\\Users\\phamp\\Downloads\\doanC--20240310T061221Z-001\\doanC-\\QLTHUVIEN\\QLTHUVIEN\\frm_nhanvien.cs",
+              "RelativeToolTip": "QLTHUVIEN\\frm_nhanvien.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAYwLsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:32:13.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
